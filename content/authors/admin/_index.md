@@ -33,12 +33,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:zihao.wang@anl.gov'
     label: E-mail Me
-  # - icon: brands/x
-  #   url: https://twitter.com/GetResearchDev
-  # - icon: brands/instagram
-  #   url: https://www.instagram.com/
-  # - icon: brands/github
-  #   url: https://github.com/gcushen
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/zihao-wang-chemistry/
   - icon: academicons/google-scholar
@@ -58,52 +52,56 @@ education:
     summary: Add Me
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      url: 'https://escholarship.org/content/qt7ng586zv/qt7ng586zv.pdf'
+  - area: Master of Engineering in Chemical Engineering
+    institution: Yangzhou University
+    date_start: 2015
+    date_end: 2018
+    summary: Add Me
+  - area: Bachelor of Engineering in Chemical Engineering Technology/Technician
+    institution: Yangzhou University
+    date_start: 2011
+    date_end: 2015
+    summary: Add Me
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - position: Postdoctoral Appointee
+    company_name: Argonne National Laboratory
+    company_url: 'https://www.anl.gov/'
+    company_logo: 'https://www.fws.gov/sites/default/files/styles/large/public/2020-08/argonne_national_laboratory.jpge'
+    date_start: 2024-02
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      Add Me
+  - position: Postdoctoral Researcher
+    company_name: University of California, Riverside
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-07
+    date_end: 2024-01
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Project: Atomic Layer Deposition of Transition Metal Oxides Catalysts on Mesoporous Materials
+        - Designed and built a flow ALD reactor for synthesis.
+        - Synthesized transition metal oxides, such as Al2O3, TiO2, HfO2 and NiO2 on mesoporous SBA-15 support.
+        - Performed both ex-situ XPS and in-situ Mass Spectroscopy in UHV chambers.
+  - position: Graduate Researcher-Zaera Lab (Distinguished Professor)
+    company_name: University of California, Riverside
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-09
+    date_end: 2023-06
+    summary: |
+      Dissertation: Understanding the Bestowing of Enantioselectivity to Heterogeneous Catalysts via the Addition of Chiral Modifiers
+        - Designed and developed the in-situ ATR-IR absorption spectroscopy system to probe the interactions between chiral molecules and metal surfaces (Pt, Pd, Pt-Cu alloys) at the liquid/solid interfaces.
+        - Developed kinetic measurements to estimate correlations between the adsorption modes of the chiral molecules and the enantioselectivity performance in asymmetric hydrogenations of α-keto esters.
+        - Skilled with in-situ ATR-IR, NMR, BET surface analysis, GC, GC-MS,TEM,ICP-OES, surface modifications.
+  - position: Researcher
+    company_name: WuXi AppTec
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-01
+    date_end: 2018-08
+    summary: |
+      DInvolved in Good Manufacturing Practices (GMP) NMR, FTIR, LC-MS tests and analysis. Familiar with GMP process and standards.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -126,9 +124,9 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Tennis
         description: ''
-        percent: 60
+        percent: 100
         icon: person-simple-walk
       - name: Cats
         description: ''
