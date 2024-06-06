@@ -55,20 +55,20 @@ education:
       url: 'https://escholarship.org/content/qt7ng586zv/qt7ng586zv.pdf'
   - area: Master of Engineering in Chemical Engineering
     institution: Yangzhou University
-    date_start: 2015
-    date_end: 2018
+    date_start: 2015-09-01
+    date_end: 2018-06-30
     summary: Add Me
   - area: Bachelor of Engineering in Chemical Engineering Technology/Technician
     institution: Yangzhou University
-    date_start: 2011
-    date_end: 2015
+    date_start: 2011-09-01
+    date_end: 2015-06-30
     summary: Add Me
 work:
   - position: Postdoctoral Appointee
     company_name: Argonne National Laboratory
     company_url: 'https://www.anl.gov/'
     company_logo: 'https://www.fws.gov/sites/default/files/styles/large/public/2020-08/argonne_national_laboratory.jpge'
-    date_start: 2024-02
+    date_start: 2024-02-01
     date_end: ''
     summary: |2-
       Add Me
@@ -76,8 +76,8 @@ work:
     company_name: University of California, Riverside
     company_url: ''
     company_logo: ''
-    date_start: 2023-07
-    date_end: 2024-01
+    date_start: 2023-07-01
+    date_end: 2024-01-01
     summary: |
       Project: Atomic Layer Deposition of Transition Metal Oxides Catalysts on Mesoporous Materials
         - Designed and built a flow ALD reactor for synthesis.
@@ -87,8 +87,8 @@ work:
     company_name: University of California, Riverside
     company_url: ''
     company_logo: ''
-    date_start: 2018-09
-    date_end: 2023-06
+    date_start: 2018-09-01
+    date_end: 2023-06-01
     summary: |
       Dissertation: Understanding the Bestowing of Enantioselectivity to Heterogeneous Catalysts via the Addition of Chiral Modifiers
         - Designed and developed the in-situ ATR-IR absorption spectroscopy system to probe the interactions between chiral molecules and metal surfaces (Pt, Pd, Pt-Cu alloys) at the liquid/solid interfaces.
@@ -98,8 +98,8 @@ work:
     company_name: WuXi AppTec
     company_url: ''
     company_logo: ''
-    date_start: 2018-01
-    date_end: 2018-08
+    date_start: 2018-01-01
+    date_end: 2018-08-30
     summary: |
       DInvolved in Good Manufacturing Practices (GMP) NMR, FTIR, LC-MS tests and analysis. Familiar with GMP process and standards.
 
@@ -138,12 +138,14 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Chinese(mandarin)
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English
+    percent: 80
+  - name: Chinese(Cantonese)
+    percent: 10
+  - name: Korean
+    percent: 10
 
 # Awards.
 #   Add/remove as many awards below as you like.
