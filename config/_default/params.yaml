@@ -14,16 +14,17 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    description: 'Zihao Wang, Postdoctoral Appointee at Argonne National Lab, specializes in surface chemistry and thin films deposition. Explore my work on catalysts, oxidation reactions, and sustainable materials.'
+    twitter: ''
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-GV1JV8L76F'
     baidu_tongji: ''
     plausible: ''
     fathom: ''
     pirsch: ''
+    microsoft_clarity: 'mrlf9dox0x'
   verification:
-    google: ''
+    google: 'rPPH6c6o9KD8UpQuba1oYI33-wwULiTZKnUNYgS-XrA'
     baidu: ''
 
 # Site header
@@ -35,12 +36,12 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Zihao Wang"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Zihao Wang. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -51,10 +52,11 @@ footer:
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
+  address_format: en-us
 
 # Site features
 features:
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false

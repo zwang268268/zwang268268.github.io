@@ -35,11 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        As a Postdoctoral Appointee at Argonne National Laboratory, I specialize in the intricate realms of surface chemistry and the deposition of thin films. Educated and skilled in materials science, I actively contribute to pioneering research on innovative catalysts, focusing on areas like selective oxidation reactions and the development of non-precious metal catalysts. My research has garnered recognition, influencing over 200 scholars in the field as I relentlessly pursue the development of new materials for eco-friendly technologies. I am keen to engage with like-minded professionals to further our collective understanding and impact. Let's connect! 😃
     design:
       columns: '1'
   - block: collection
@@ -63,16 +59,6 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
   - block: collection
     id: news
     content:
